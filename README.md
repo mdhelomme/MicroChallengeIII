@@ -2,7 +2,7 @@
 
 ## HRV and Conceptualizing Quantified Data
 
-### Introduction:
+### **Introduction:**
 
 Our overlapping interests in mental and physical health, coupled with a holistic perspective on wellness, led to an enlightening discourse. We delved into the inherent wisdom of our bodies, their constant expression of emotion, and the importance of heeding these signals. It dawned upon us that honoring our bodies' desires is paramount for leading a life imbued with wellness.
 
@@ -28,7 +28,7 @@ Through the application of this biofeedback technique, we can make more informed
 
 Nevertheless, our aspiration extends beyond these conventional methods. We intend to integrate HRV analysis with visual art, aiming to obtain a more exhaustive, accessible, and holistic understanding of an individual's emotional and empathetic state.
 
-### Objecives
+### **Objecives**
 
 With our installation, we aim to achieve the following:
 
@@ -42,13 +42,13 @@ With our installation, we aim to achieve the following:
 
 5. **Therapeutic Benefits**: The process of engaging with health through a holistic expression can have therapeutic benefits. It promotes self-reflection, emotional processing, and stress reduction.
 
-### Installation 1: The Data Sculpture
+### **Installation 1: The Data Sculpture**
 
 Our primary objective is to design an immersive visual experience that brings real-time data to life in a uniquely personal way. To achieve this, we plan to project the visual data, collected in real-time, directly onto a wall. Alternatively, we can display these visualizations on screens. 
 
 By transforming abstract data into tangible visual representations, we hope to create a data sculpture that engages viewers on a deeper level, making complex information both accessible and impactful.
 
-- TouchDesigner
+- *TouchDesigner*
 
 TouchDesigner is a node-based visual programming language developed by the Canadian software company Derivative. It's used for creating real-time, interactive visuals, 3D animations, and immersive multimedia experiences. The software is known for its flexibility, wide range of capabilities, and use in professional settings such as live performances, interactive installations, music videos, and digital prototyping.
 
@@ -60,14 +60,44 @@ One of the most powerful aspects of TouchDesigner is its ability to handle diffe
 
 Here, we plugged data recorded from the POLAR10, and processed the final csv file into TouchDesigner. The outcome was a conceptual piece, meaning it was more about making art with initial data inputs, rather than a comprehensive understanding of the data itself.
 
-- Polar 10
+- *Polar 10*
 
 ![Polar10](https://m.media-amazon.com/images/I/81XDUuqW35L._AC_SX425_.jpg)
 
-- Python
-- OpenHRV Open Sourced Interface
+- *Python*
+- *OpenHRV Open Sourced Interface*
 
 ![OPENHRV](Imagens/biofeedback_demo.gif)
 
+### **Installation 02: Peer to Peer Coherence**
 
+![Sketch](Imagens/Installation2.png)
 
+The objective of this installation is to guide users towards a state of coherence through collaboration with a peer, employing parasympathetic stimulation techniques and resources. The aim is to increase Heart Rate Variability (HRV) and synchronize it with the respiratory rate of a peer sitting opposite. The guiding lights projected from each user's position will assist them throughout this interactive experience.
+
+![TD](Imagens/TD1.gif)
+
+The sequence of engagement would be as follows:
+
+1. **Connection**: Users begin by connecting to the necessary sensors.
+
+2. **Settling Down**: Once connected, users sit down comfortably on a meditation pillow.
+
+3. **Initiating HRV Display**: Next, they activate the HRV "aura" display, which is a projected visual representation of HRV through the medium of color.
+
+4. **Resonance Frequency Breathing (RFB)**: The users begin their RFB and coherence collaboration. 
+
+5. **Visualizing Transformation**: As the users continue, they can visualize their HRV transformations via the changing color spectrum.
+
+6. **Data Recording and Display**: All HRV sensor data is recorded throughout the experience and displayed through an interactive interface.
+
+7. **Finalization and Feedback**: The interaction concludes with providing users feedback and insights based on their recorded HRV data. 
+
+Through this interactive and collaborative installation, we aim to provide users with a tangible understanding of their own physiological states, leading to potential therapeutic benefits and an enhanced sense of wellbeing.
+
+### **Next Steps**
+
+1. Develop our own API which would allows us to run real-time data through Touch Designer.
+2. Understand to what extent our installations are meaningul. We must ask ourselves:
+    - Is this conceptualized format of data representation altering our audiences' perspectives on themselves and their own nervous system?
+    - How can we use interfaces for means of interactivity and first-person-perspective iterations?
