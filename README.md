@@ -31,8 +31,16 @@ Therapeutic benefits: engaging with health by developing an holistic expression 
 ### Tools and Technologies
 
 - TouchDesigner
+![OPENHRV](Imagens/TD.gif)
+
+
 - Polar 10
+
+![Polar10](https://m.media-amazon.com/images/I/81XDUuqW35L._AC_SX425_.jpg)
 - Python
 - OpenHRV Open Sourced Interface
+
+![OPENHRV](Imagens/biofeedback_demo.gif)
+
 
 
