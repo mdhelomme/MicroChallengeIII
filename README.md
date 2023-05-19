@@ -70,6 +70,10 @@ We used Python to accesss PolarH10 sensor data and analyze it to obtain an accur
 
 We also began the development of an API using Flask + OpenAPI, so that we can use the analyzed data as an input for TouchDesigner, Arduino or any other applications that we might consider.
 
+Here is the complete repository for our work in Python:
+https://github.com/ServirGt/Biosensing
+
+
 ![TD](Imagens/testing.png)
 
 ![TD](Imagens/ecggif.gif)
