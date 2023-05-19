@@ -70,16 +70,9 @@ We used Python to accesss PolarH10 sensor data and analyze it to obtain an accur
 
 We also began the development of an API using Rest API, so that we can use the analyzed data as an input for TouchDesigner, Arduino or any other applications that we might consider.
 
-![TD](Imagens/ecggif.gif)
+![TD](Imagens/testing.png)
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjXPMUBaA&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjXPMUBaA&#x2F;view?utm_content=DAFjXPMUBaA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">pythonecg</a> 
+![TD](Imagens/ecggif.gif)
 
 - *OpenHRV Open Sourced Interface*
 
@@ -93,15 +86,6 @@ We also began the development of an API using Rest API, so that we can use the a
 The objective of this installation is to guide users towards a state of coherence through collaboration with a peer, employing parasympathetic stimulation techniques and resources. The aim is to increase Heart Rate Variability (HRV) and synchronize it with the respiratory rate of a peer sitting opposite. The guiding lights projected from each user's position will assist them throughout this interactive experience.
 
 ![TD](Imagens/auragif.gif)
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjXPY-KOU&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFjXPY-KOU&#x2F;view?utm_content=DAFjXPY-KOU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">aura</a> 
 
 ![TD](Imagens/TD2.gif)
 
