@@ -68,7 +68,7 @@ Here, we plugged data recorded from the POLAR10, and processed the final csv fil
 
 We used Python to accesss PolarH10 sensor data and analyze it to obtain an accurate HRV value. We connected to the PH10 using a Bleak, a python library to connect with BLE devices. We then used a library called PyHRV to calculate RR peaks and HRV values. This process was somewhat more complicated than we expected, since the sensor data provided multiple outputs and it required calibration and a lot of testing in order to achieve the desired results. 
 
-We also began the development of an API using Rest API, so that we can use the analyzed data as an input for TouchDesigner, Arduino or any other applications that we might consider.
+We also began the development of an API using Flask + OpenAPI, so that we can use the analyzed data as an input for TouchDesigner, Arduino or any other applications that we might consider.
 
 ![TD](Imagens/testing.png)
 
