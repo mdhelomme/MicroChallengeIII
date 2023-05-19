@@ -113,7 +113,7 @@ Through this interactive and collaborative installation, we aim to provide users
 
 ### **Next Steps**
 
-1. Develop our own API which would allows us to run real-time data through Touch Designer.
-2. Understand to what extent our installations are meaningul. We must ask ourselves:
+1. Continue the development of our own API using Flask and OpenAPI which would allow us to run real-time data through Touch Designer.
+2. Continue exploring and defining to what extent our installations are meaningul. We must ask ourselves:
     - Is this conceptualized format of data representation altering our audiences' perspectives on themselves and their own nervous system?
     - How can we use interfaces for means of interactivity and first-person-perspective iterations?
