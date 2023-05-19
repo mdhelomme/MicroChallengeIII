@@ -75,7 +75,7 @@ Here, we plugged data recorded from the POLAR10, and processed the final csv fil
 
 The objective of this installation is to guide users towards a state of coherence through collaboration with a peer, employing parasympathetic stimulation techniques and resources. The aim is to increase Heart Rate Variability (HRV) and synchronize it with the respiratory rate of a peer sitting opposite. The guiding lights projected from each user's position will assist them throughout this interactive experience.
 
-![TD](Imagens/TD1.gif)
+![TD](Imagens/TD2.gif)
 
 The sequence of engagement would be as follows:
 
